@@ -1,0 +1,1 @@
+Fulkumari Ludo is a modern, feature-rich digital version of the classic Ludo game, built with a focus on smooth gameplay, multiplayer interaction, and clean UI/UX. It supports both offline and online modes, customizable game settings, and real-time room-based multiplayer.
